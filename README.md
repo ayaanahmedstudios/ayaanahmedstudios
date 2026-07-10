@@ -1,17 +1,13 @@
-# Hi, I'm [Your Name] 👋
+# Ayaan Ahmed
 
-I am a **[Your Role / Profession]** focusing on building [mention your core focus, e.g., scalable web apps, data pipelines, open-source tools].
+### Graphic Designer&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;Photographer&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;Videographer
 
-### 💫 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Technology/Language]**
-- 🤝 I’m looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Topics you know well]**
+#### About Me
+- I’m currently studying at **[OCAD University](https://www.ocadu.ca/)**
+- I’m currently creating for **[Ayaan Ahmed Studios](https://www.instagram.com/bluetigerincstudios/)**
+- I founded **[Blue Tiger Inc Studios](https://www.youtube.com/@BlueTigerIncStudios/)**
 
-### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript, Python, Go
-- **Frameworks:** React, Next.js, Node.js, FastAPI
-- **Tools/Databases:** Git, Docker, PostgreSQL, AWS
-
-### 🌐 Connect with Me
+### Connect with Me
 [Website](https://yourwebsite.com) • [LinkedIn](https://linkedin.com) • [Twitter](https://twitter.com) • [Email](mailto:your.email@example.com)
+
+
