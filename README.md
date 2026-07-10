@@ -7,7 +7,4 @@
 - I’m currently creating for **[Ayaan Ahmed Studios](https://www.instagram.com/bluetigerincstudios/)**
 - I founded **[Blue Tiger Inc Studios](https://www.youtube.com/@BlueTigerIncStudios/)**
 
-### Connect with Me
-[Website](https://yourwebsite.com) • [LinkedIn](https://linkedin.com) • [Twitter](https://twitter.com) • [Email](mailto:your.email@example.com)
-
 
