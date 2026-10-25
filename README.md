@@ -1,6 +1,6 @@
   # **[Ayaan Ahmed](https://www.ayaanahmed.org/)**
 
-### Graphic Designer&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;Photographer&nbsp;&nbsp;&nbsp;✦&nbsp;&nbsp;&nbsp;Videographer
+### Graphic Designer + Photographer
 
 #### About Me
 - I’m currently studying at **[OCAD University](https://www.ocadu.ca/about-university)**
